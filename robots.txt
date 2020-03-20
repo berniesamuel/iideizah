@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://olahpheix.cxxxxxxp.cc/sitemap.xml
